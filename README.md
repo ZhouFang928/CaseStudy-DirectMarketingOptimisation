@@ -8,7 +8,7 @@ In this particular use case, the key objective is to
 * Predict the client’s likelihood of purchase for a consumer loan, credit card, and mutual fund, respectively.
 * Optimise targeting strategy and allocation of marketing offers to maximise revenue.
 
-## Structure
+## Repository Structure
 * Data: contains the input data and output data.
 * Jupyter: contains the end to end jupyter notebook for the case study analysis.
 * Doc: contains the case study summary.
